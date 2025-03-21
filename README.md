@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 💡 Skills & Technologies
 Programming: Python (Pandas, NumPy)
-Databases: SQL (MySQL, PostgreSQL)
+Databases: SQL (MySQL)
 Data Visualization: Power BI, Matplotlib, Seaborn
 Other Tools: Excel, Google Sheets
 Soft Skills: Analytical Thinking, Communication, Customer Service
